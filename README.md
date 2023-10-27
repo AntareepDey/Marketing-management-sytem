@@ -2,7 +2,7 @@
 
 This project is my final year of high school CS project. I created python web application for managing the data of a sales and marketing management company. The Frontend is built using bootstrap and FLASK framework. The backend is handled by python and the database used to host it is MySQL. It has been built with material UI and Fluent design so make it a delight to use. 
 
-P.S. Don't get fooled by the dashboard page it's a static page that just looks dynamic. A work in progress😅.
+
 
 
 ## Installation
